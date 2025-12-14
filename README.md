@@ -35,7 +35,7 @@ agentic-ai-learning-journey/
 ---
 
 - **Step 1: Concepts** → Contains notes, diagrams, and examples for Step 1 of the Agentic AI learning journey.  
-- More step folders will be added as I progress.
+   - More step folders will be added as I progress.
 
 ---
 
