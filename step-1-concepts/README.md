@@ -318,7 +318,7 @@ Goal Achieved
 
 To reinforce these concepts, I also referred to:
 
-* **Building Effective Agents – Anthropic Engineering**
+* **Building Effective Agents – Anthropic Engineering**<br>
   [https://www.anthropic.com/engineering/building-effective-agents]
 
 **Why this article matters:**
