@@ -334,7 +334,5 @@ After Step 1, I understand:
 
 ---
 
-📌 **Next:** Step 2 — Build your first AI agent in Python.
 
----
 
