@@ -136,7 +136,35 @@ Think of it like a **human problem-solving cycle**.
 
 ---
 
-#
+### 4️⃣ Learning (Remember)
+
+* Stores success/failure
+* Updates memory
+* Improves future decisions
+
+📌 *“What did I learn from this?”*
+
+---
+
+## 🧩 Core Components of an AI Agent
+
+```bash
+┌──────────────────────────┐
+│        AI AGENT          │
+│                          │
+│  ┌─────────┐             │
+│  │  LLM    │ ← reasoning │
+│  └─────────┘             │
+│       │                  │
+│  ┌─────────┐             │
+│  │ Memory  │ ← experience│
+│  └─────────┘             │
+│       │                  │
+│  ┌─────────┐             │
+│  │ Tools   │ ← actions   │
+│  └─────────┘             │
+└──────────────────────────┘
+```
 
 ---
 
