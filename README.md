@@ -23,7 +23,16 @@ Here, I explore frameworks like **LangChain**, **CrewAI**, and multi-agent syste
 
 ---
 
+## 📂 Folder Structure
 
+```bash
+agentic-ai-learning-journey/
+│
+└── step-1-concepts/
+    └── README.md
+```
+
+---
 
 - **Step 1: Concepts** → Contains notes, diagrams, and examples for Step 1 of the Agentic AI learning journey.  
    - More step folders will be added as I progress.
