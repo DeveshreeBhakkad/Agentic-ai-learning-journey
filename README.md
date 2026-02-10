@@ -9,19 +9,6 @@ Here, I explore frameworks like **LangChain**, **CrewAI**, and multi-agent syste
 
 ---
 
-## 🌱 Learning Roadmap
-
-| Step | Description |
-|------|------------|
-| Step 1 | Learn AI agent concepts, agent loop, memory, reasoning, and RAG (no coding) |
-| Step 2 | Build first simple AI agent in Python |
-| Step 3 | LangChain basics: tools, chains, memory |
-| Step 4 | Advanced LangChain v1 / LangGraph workflows |
-| Step 5 | Multi-agent systems: planning, collaboration, task delegation |
-| Step 6 | Autonomous agents using CrewAI / AutoGen |
-| Step 7 | Final project: build & deploy a mini workflow automation agent |
-
----
 
 ## 📂 Folder Structure
 
