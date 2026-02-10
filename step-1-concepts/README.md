@@ -7,17 +7,7 @@ This document explains **Agentic AI** from first principles using **stories, ana
 
 ---
 
-## 🌱 A Simple Story: Why Agentic AI Exists
 
-Imagine you tell an AI:
-
-> **“Find the cheapest flight to Bangalore tomorrow and book it.”**
-
-### ❌ What a normal AI assistant does
-
-* Gives text suggestions
-* Shares links
-* Stops after replying
 
 ### ✅ What an AI agent does
 
